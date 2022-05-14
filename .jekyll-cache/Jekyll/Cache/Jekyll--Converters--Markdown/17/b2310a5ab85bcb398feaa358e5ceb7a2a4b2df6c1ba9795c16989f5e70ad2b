@@ -1,9 +1,5 @@
----
-layout: default
-title: Home
----
-
-{% if page.url == "/" %}
+I"'
+<p>{% if page.url == “/” %}</p>
 
 <!-- Intro 
 ================================================== -->
@@ -16,7 +12,7 @@ title: Home
                     <div class="wrapthumbnail">
                         <a href="/mediumish-theme-jekyll/quick-start-guide/">
                             
-                            <img class="featured-box-img-cover" src="/mediumish-theme-jekyll/assets/images/Profile3.jpg">
+                            <img class="featured-box-img-cover" src="/mediumish-theme-jekyll/assets/images/12.jpg" />
                             
                         </a>
                     </div>
@@ -31,7 +27,7 @@ title: Home
                                 
                             </h2>
 
-                            <h4 class="card-text"> You need your custom diet and I am here for you. </h4>
+                            <h4 class="card-text">Director Roland Suso Richter’s enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney’s own play “Point of Death” - a title that...</h4>
                         </div>
                     </div>
                 </div>
@@ -40,7 +36,7 @@ title: Home
     </div>
 </div>
 <!-- end post -->
-    </div>
+    &lt;/div&gt;
 </section>
 
 <!-- Featured
@@ -64,7 +60,7 @@ title: Home
     </div>
 </section>
 
-{% endif %}
+<p>{% endif %}</p>
 
 <!-- Posts Index
 ================================================== -->
@@ -97,3 +93,4 @@ title: Home
 </span>
 </div>
 
+:ET
