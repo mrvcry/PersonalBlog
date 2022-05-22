@@ -11,19 +11,11 @@ hidden: true
 published: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon 
+I offer 3-month and 6-month 1:1 nutrition consultation programs. In this program we will start with 60 minutes initial consultation to be a team. 
+Incorporating your favorite and culturally stable foods is inevitable part of my practice because we want to build something sustainable and stay with you for life. 
 
+I am also a strong believer that food can be nutritious and joyful at the same time. Your nutrition path with me will be 100% individualized. Because we are all unique human beings we don’t like/dislike the same things. That't why you need your own dietitian to work with your individulized meal plan and achieve your goals.
 
-
-Hello
-
-screenwriterAs a Dietitian New York, I value inclusivity and sustainability by all means. Incorporating your favorite and culturally stable foods is inevitable part of my practice because we want to build something sustainable and stay with you for life. I am also a strong believer that food can be nutritious and joyful at the same time. Your nutrition path with me will be 100% individualized. Because we are all unique human beings we don’t like/dislike the same things. That't why you need your own dietitian to work with your individulized meal plan and achieve your goals.
-
-Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
-
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
-
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
 
 The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
 
