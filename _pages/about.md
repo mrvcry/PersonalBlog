@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Hello this is Merve!
+title: 'Merve Ciray, MS, RDN'
 permalink: /about
 comments: true
+published: true
 ---
 
 <!--<div class="row justify-content-between">
@@ -44,7 +45,7 @@ I always love what I do and how I touch the life of people who I work with. I lo
                     <div class="card">
                         <div class="card-body">
                             
-                            <p>Hi there! I am a Registered Dietitian Nutritionist Merve. I have Bachelor's and two Master's degrees in Nutrition and Dietetics from Istanbul and New York. Before moving to New York,  I worked at a clinical setting in Istanbul as a Clinical Dietitian; I provided nutrition education, counseling and individuzlied meal plans for more than 300 patients annually. 
+                            <p>Hi there! I am Merve, your personal Registered Dietitian Nutritionist. I have Bachelor's and two Master's degrees in Nutrition and Dietetics from Istanbul and New York. Before moving to New York,  I worked at a hospital in Istanbul as a Clinical Dietitian; I provided nutrition education, counseling and individuzlied meal plans for more than +300 patients. 
 Additionally, I worked with companies to provide preventive nutrition care to improve quality of life of white-collered employees. I provided nutrition workshops, seminars and 1:1 coaching as a corporate dietitian.
 </p>
 <p>
