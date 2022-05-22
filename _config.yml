@@ -4,7 +4,7 @@ title: "Hi I am Merve your New Yorker Registered Dietitian"
 description: "I am here to create your personal meal plan without restrictions!🍦"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://gmail.us18.list-manage.com/subscribe/post?u=ba9fc01a66d4f01e149e66a5d&amp;id=56566b7d75'
