@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1:1 Nutrition Consulting'
+title: '1:1 Nutrition Counseling'
 author: sal
 categories:
   - Jekyll
