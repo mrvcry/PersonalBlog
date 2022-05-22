@@ -33,7 +33,7 @@ I always love what I do and how I touch the life of people who I work with. I lo
                     <div class="wrapthumbnail">
                         <a href="/mediumish-theme-jekyll/quick-start-guide/">
                             
-                            <img class="featured-box-img-cover" src="{{site.baseurl}}/assets/images/Profile2.jpg">
+                            <img class="featured-box-img-cover" src="/assets/images/Profile2.jpg">
                             
                         </a>
                     </div>
