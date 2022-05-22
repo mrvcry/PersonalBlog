@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Private Practice
+title: '1:1 Nutrition Consulting'
 author: sal
 categories:
   - Jekyll
@@ -17,7 +17,9 @@ Director Roland Suso Richter's enigmatic psychological thriller (direct to video
 
 Hello
 
-screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+screenwriterAs a Dietitian New York, I value inclusivity and sustainability by all means. Incorporating your favorite and culturally stable foods is inevitable part of my practice because we want to build something sustainable and stay with you for life. I am also a strong believer that food can be nutritious and joyful at the same time. Your nutrition path with me will be 100% individualized. Because we are all unique human beings we don’t like/dislike the same things. 
+
+Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
 As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
 
