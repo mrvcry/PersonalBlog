@@ -1,11 +1,4 @@
----
-layout: page
-title: Hello this is Merve!
-permalink: /about
-comments: true
----
-
-<!--<div class="row justify-content-between">
+I"L<!--<div class="row justify-content-between">
 <div class="col-md-12 pr-5">
 
 <p>Hi there! I am a Registered Dietitian Nutritionist Merve. I have Bachelor's and two Master's degrees in Nutrition and Dietetics from Istanbul and New York. Before moving to New York,  I worked at a clinical setting in Istanbul as a Clinical Dietitian; I provided nutrition education, counseling and individuzlied meal plans for more than 300 patients annually. 
@@ -13,7 +6,7 @@ Additionally, I worked with companies to provide preventive nutrition care to im
 </p>
 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Profile2.jpg" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="/mediumish-theme-jekyll/assets/images/Profile2.jpg" alt="jekyll template mediumish" /></p>
 
 <p>
 I always love what I do and how I touch the life of people who I work with. I love sharing the happiness and joy of changes and results of my clients. Therefore, I decided to pursue my education to get my credentials to work as a Registered Dietitian in the US. Of course, it was not easy to go back to school while just starting to live in a different country as a newly married woman who already been a dietitian. I have been through blood, sweat, and tears involved in getting my credentials but I am so glad I did it. Here is my story, I am looking forward to meet you and listen yours!
@@ -22,7 +15,7 @@ I always love what I do and how I touch the life of people who I work with. I lo
 </div>
 
 
-</div> --> 
+</div> -->
 
 <section class="featured-posts">
 <div class="col-12 mb-30px">
@@ -33,7 +26,7 @@ I always love what I do and how I touch the life of people who I work with. I lo
                     <div class="wrapthumbnail">
                         <a href="/mediumish-theme-jekyll/quick-start-guide/">
                             
-                            <img class="featured-box-img-cover" src="{{site.baseurl}}/assets/images/Profile2.jpg">
+                            <img class="featured-box-img-cover" src="/mediumish-theme-jekyll/assets/images/Profile2.jpg" />
                             
                         </a>
                     </div>
@@ -61,3 +54,4 @@ I always love what I do and how I touch the life of people who I work with. I lo
 <!-- end post 
     </div> -->
 </section>
+:ET

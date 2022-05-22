@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Shop with your dietitian"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
