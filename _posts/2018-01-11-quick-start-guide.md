@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3-Month Program
+title: 3-Month Nutrition Program
 author: sal
 categories:
   - Jekyll
