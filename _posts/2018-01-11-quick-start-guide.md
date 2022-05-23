@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1:1 Nutrition Counseling'
+title: Nutrition Counseling Packages
 author: sal
 categories:
   - Jekyll
@@ -11,20 +11,23 @@ hidden: true
 published: true
 ---
 
-I offer 3-month and 6-month 1:1 nutrition consultation programs. In this program we will start with 60 minutes initial consultation to be a team. 
-Incorporating your favorite and culturally stable foods is inevitable part of my practice because we want to build something sustainable and stay with you for life. 
+1:1 Online Nutrition Counseling 
 
-I am also a strong believer that food can be nutritious and joyful at the same time. Your nutrition path with me will be 100% individualized. Because we are all unique human beings we don’t like/dislike the same things. That't why you need your own dietitian to work with your individulized meal plan and achieve your goals.
+3- Month **Individualized** Nutriton Program 
+
+Ready to a fresh start? Feeling confident around food and ENJOY life?
+
+We will end the nutrition dilemma that leads to question yourself in everyday choices throughtot your life. We will work on things you don’t know instead what you already know and to do that we will be meeting one-on-one, biweekly. 
+
+We will start with initial consultation to discuss everything that needs to be considered to find the best way to achieve your goals. We will dive deep to understand your current health status, previous experiences and challenges related to nutrition. 
+
+This package includes: 
+- 60-minute initial consultation
+- 6 follow-up 30-minute virtual sessions with your Registered Dietitian to assess the progress, set new goals(if needed) and celebrate the achievements! 
+- Nutrition and lifestyle counseling (100% personal)
+- Nutrition education 
+- Individualized meal plans&recipes 
+- Ongoing unlimited email support
 
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+ 
