@@ -11,15 +11,14 @@ hidden: true
 published: true
 ---
 
-1:1 Online Nutrition Counseling 
-
-3- Month **Individualized** Nutriton Program 
+**1:1 Online Nutrition Counseling**
 
 Ready to a fresh start? Feeling confident around food and ENJOY life?
+-We will end the nutrition dilemma that leads to question yourself in everyday choices throughtot your life. We will work on things you don’t know instead what you already know and to do that we will be meeting one-on-one, biweekly. 
 
-We will end the nutrition dilemma that leads to question yourself in everyday choices throughtot your life. We will work on things you don’t know instead what you already know and to do that we will be meeting one-on-one, biweekly. 
+-We will start with initial consultation to discuss everything that needs to be considered to find the best way to achieve your goals. We will dive deep to understand your current health status, previous experiences and challenges related to nutrition. 
 
-We will start with initial consultation to discuss everything that needs to be considered to find the best way to achieve your goals. We will dive deep to understand your current health status, previous experiences and challenges related to nutrition. 
+3- Month **Individualized** Nutriton Program 
 
 This package includes: 
 - 60-minute initial consultation
