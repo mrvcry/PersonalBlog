@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nutrition Counseling Packages
+title: 3-Month Program
 author: sal
 categories:
   - Jekyll
