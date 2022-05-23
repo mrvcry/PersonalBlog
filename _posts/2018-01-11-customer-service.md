@@ -21,7 +21,7 @@ published: true
 This program includes everything from the 3-month program and additionally 6 follow-up sessions(total of 12 follow-up sessions with dietitian). 
 
 
-BONUS: One **ekstra** session with me to learn about how to **Grocery Shopping like a PRO** without wasting time and money! 
+BONUS: One **extra** session with me to learn about how to **Grocery Shopping like a PRO** without wasting time and money! 
 
 
 
