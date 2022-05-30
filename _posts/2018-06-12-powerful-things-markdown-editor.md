@@ -1,90 +1,27 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title: Powerful things you can do with the Markdown editor
 author: sal
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/16.jpg
+published: true
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+##Mindfull Eating Practices 
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+Do you restrict yourself when it comes to your favorite food? 🍔 🍭 🍨
+Well..I feel like most of us do and it is not something we know how to don’t restrict. Hopefully, this post will help you to figure out 🤞🏻❤️
+Please answer following questions and do not worry about your answers, we’ll get there 😉
+1️⃣Do you ==“ENJOY”== while eating your favorite food?
+2️⃣Do you feel guilty after you eat them?
+3️⃣Do you avoid buying those items to not to binge?
 
-
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
+If your answers are mostly “YES”. Yes
+Try these;
+1️⃣Take your time! Smell the food, take first bite and enjoy as much as you can. This is my favorite tip🔝even though I sometimes have to remind myself to eat mindfully but it is ok as soon as I know how to do that.
+2️⃣Please, do not compensate after you eat your favorite food! Don’t overexercise, do not eat less just because you think that you cheated on your diet UNLESS you feel full and do not feel like eating 🍽
+3️⃣You are the one and only person who get to chose what you eat! I know it is tricky to not to eat when you know your favorite dessert in the fridge. BUT..If you know that you can always eat that dessert, would you still binge it? If the answer is YES, follow the first two suggestions and eat the dessert🍽
 
 
 
