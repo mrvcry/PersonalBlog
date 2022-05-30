@@ -11,11 +11,12 @@ published: true
 ##Mindfull Eating Practices 
 
 Do you restrict yourself when it comes to your favorite food? 🍔 🍭 🍨
-Well..I feel like most of us do and it is not something we know how to don’t restrict. Hopefully, this post will help you to figure out 🤞🏻❤️
+Well..I feel like most of us do and it is not something we know how to not restrict. Hopefully, this post will help you to figure out 🤞🏻❤️
 Please answer following questions and do not worry about your answers, we’ll get there 😉
-1️⃣Do you ==“ENJOY”== while eating your favorite food?
-2️⃣Do you feel guilty after you eat them?
-3️⃣Do you avoid buying those items to not to binge?
+
+1.Do you ==“ENJOY”== while eating your favorite food?
+2.Do you feel guilty after you eat them?
+3.Do you avoid buying those items to not to binge?
 
 If your answers are mostly “YES”. Yes
 Try these;
