@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powerful things you can do with the Markdown editor
+title: " Do you restrict yourself when it comes to your favorite food? \U0001F354 \U0001F36D \U0001F368"
 author: sal
 categories:
   - Jekyll
@@ -10,7 +10,6 @@ published: true
 ---
 ##Mindfull Eating Practices 
 
-Do you restrict yourself when it comes to your favorite food? 🍔 🍭 🍨
 Well..I feel like most of us do and it is not something we know how to not restrict. Hopefully, this post will help you to figure out 🤞🏻❤️
 Please answer following questions and do not worry about your answers, we’ll get there 😉
 
