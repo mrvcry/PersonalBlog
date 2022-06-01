@@ -1,9 +1,5 @@
----
-layout: default
-title: Home
----
-
-{% if page.url == "/" %}
+I"�
+<p>{% if page.url == “/” %}</p>
 
 <!-- Intro 
 ================================================== -->
@@ -16,7 +12,7 @@ title: Home
                     <div class="wrapthumbnail">
                         <a href="/quick-start-guide/">
                             
-                            <img class="featured-box-img-cover" src="/assets/images/Profile1.jpg">
+                            <img class="featured-box-img-cover" src="/assets/images/Profile1.jpg" />
                             
                         </a>
                     </div>
@@ -40,7 +36,7 @@ title: Home
     </div>
 </div>
 <!-- end post -->
-    </div>
+    &lt;/div&gt;
 </section>
 
 <!-- Featured
@@ -64,7 +60,7 @@ title: Home
     </div>
 </section>
 
-{% endif %}
+<p>{% endif %}</p>
 
 <!-- Posts Index
 ================================================== -->
@@ -97,3 +93,4 @@ title: Home
 </span>
 </div>
 
+:ET
