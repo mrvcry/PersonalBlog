@@ -10,32 +10,32 @@ published: true
 ---
 ##Mindfull Eating Practices 
 
-Well..I feel like most of us do and it is not something we know how to not restrict. Hopefully, this post will help you to figure out 🤞🏻❤️
-Please answer following questions and do not worry about your answers, we’ll get there 😉
+I was a dieter in my teenage years because I was the only overweight teen in the family and friends circle. Therefore, I tried every single fad diet which can be found in any newspaper (no internet, back in the old times!). I was avoiding eating my favorite foods all the time thanks to the diet culture. Then, I found a way to ENJOY eating by incorporating all the foods I love in my diet without compromising my health. 
+Hopefully, this post will give you a perspective of enjoying your favorite foods without feeling guilty.
 
-1.Do you ==“ENJOY”== while eating your favorite food?
-2.Do you feel guilty after you eat them?
-3.Do you avoid buying those items to not to binge?
+I was basically practicing mindful eating but the term was not popular as today. 
+The following steps can help you to start mindful eating; 
 
-If your answers are mostly “YES”. Yes
-Try these;
-1️⃣Take your time! Smell the food, take first bite and enjoy as much as you can. This is my favorite tip🔝even though I sometimes have to remind myself to eat mindfully but it is ok as soon as I know how to do that.
-2️⃣Please, do not compensate after you eat your favorite food! Don’t overexercise, do not eat less just because you think that you cheated on your diet UNLESS you feel full and do not feel like eating 🍽
-3️⃣You are the one and only person who get to chose what you eat! I know it is tricky to not to eat when you know your favorite dessert in the fridge. BUT..If you know that you can always eat that dessert, would you still binge it? If the answer is YES, follow the first two suggestions and eat the dessert🍽
+1. Take your time.
+
+Smell the food, be aware of the texture and color of your food. Then, take the first bite and enjoy as you have never eaten that food before. This is my favorite tip even though I sometimes need to remind myself to eat mindfully by slowing down.
+
+2. Stay in the moment. 
+
+Don’t think about how to balance it out after you have your favorite food. Don’t try to compensate; don’t over exercise, do not eat less just because you think that you cheated on your diet UNLESS you feel full.
+
+3. Remember you are the boss.
+
+You are the only person who gets to choose what you eat! Let’s say you open the door of the fridge and see your favorite dessert there blinking to you. First take a breath and  remind yourself that you can always eat that dessert. It does not mean that if you don’t have it now, you wouldn’t miss it forever right? You made your judgment and you still feel like eating so JUST DO IT! Remember to follow the two steps above and make a note yourself how you feel afterwards.
+
+Mindful eating takes time, effort and patience but it is sustainable and it will stick with you forever. If you have never practiced mindful eating before, start with my three tips which I have been following since I decided to gave up on fad diets. I promise, you won’t regret! 
+
+If you find this blog helpful share with a friend and in social media to spread the word!
 
 
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
-## Reference lists
 
-The quick brown jumped over the lazy.
 
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
 
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
