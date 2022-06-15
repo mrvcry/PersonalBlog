@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first mass-produced book to deviate from a rectilinear format
+title: Why would I want to work with a Registered Dietitian?
 author: sal
 categories:
   - Jekyll
@@ -8,10 +8,6 @@ categories:
 image: assets/images/17.jpg
 published: true
 ---
-![Registered Dietitian New York]({{site.baseurl}}/_posts/profil diyetyapp1.jpg)
-
-Why would I want to work with a Registered Dietitian?
-
 
 Let’s start with defining the term “dietitian” aka “nutritionist” or “Registered Dietitian Nutritionist(RDN)” who completed 4 years of undergrad school and required coursework plus 1200 hours of supervised practice and finally passed the board exam and became a RDN. You may also want to pursue a Master's Degree as I did twice to be even more qualified in the field.
 
