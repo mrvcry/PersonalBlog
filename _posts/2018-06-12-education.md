@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Education must also train one for quick, resolute and effective thinking.'
+title: Top 5 nutrients to consider while trying to conceive
 author: john
 categories:
   - Jekyll
