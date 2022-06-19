@@ -4,7 +4,7 @@ title: Why would I want to work with a Dietitian?
 author: sal
 categories:
   - Blog
-  - professional life
+  - registereddietitian
 image: assets/images/17.jpg
 published: true
 ---
@@ -19,8 +19,14 @@ Therefore, it is important to keep in mind that no one is as educated as dietiti
 
 Registered Dietitian is a healthcare professional who helps people to deal with literally anything related to nutrition such as chronic diseases, exercise nutrition, prenatal nutrition, postnatal nutrition, allergy nutrition, kids nutrition or to just to be the best of themselves by feeling better & eating healthy and much more. 
 
-There are many types of services offered from dietitians such as group coaching, self-pace nutrition programs, meal planning and my favorite 1:1 nutrition counseling. First of all, I have +7 years of experience in the field in which I worked in a variety of settings as a dietitian and nutrition counseling has been my passion over the years. I believe nutrition counseling must be extremely individualized and tailored to the client's needs and current lifestyle to be as sustainable as possible. Because I want my client to learn, experience and feel the power of eating for a lifetime not for an x amount of time. To do this, I need to know my clients by all means. What cuisine have you been raised into? What are your stable foods?  What diet have you been following? Where do you go for  grocery shopping? When do you wake up? What food do you like/dislike? Any medical diagnosis/family history? Trust me I have more of these but you got the point! 
+There are many types of services offered from dietitians such as group coaching, self-pace nutrition programs, meal planning and my favorite one-on-one nutrition counseling. I have +7 years of experience in the field in which I worked in a variety of settings as a dietitian and nutrition counseling has been my passion over the years. 
 
-Why I am asking all these questions is because the whole picture matters for you to get the desirable outcomes. However, without 1:1 nutrition counseling sessions it does not seem possible if you are seeking for personal/individualized guidance to reach out your goals and live a happy life. 
+**How is my one-on-one nutrition counseling practice?**
 
-Nutrition may seem to be a complicated term until you work with the right dietitian for you. When I say right, I don’t mean that a person could be right or wrong personally but as a teammate in your journey. Would like to learn if we are a good fit to take the lead and start our health journey book [a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ")
+I believe nutrition counseling must be extremely individualized and tailored to the client's needs and current lifestyle to be as sustainable as possible. Because I want my client to learn, experience and feel the power of eating for a lifetime not for an x amount of time. To do this, I need to know my clients by all means. What cuisine have you been raised into? What are your stable foods?  What diet have you been following? Where do you go for  grocery shopping? When do you wake up? What food do you like/dislike? Any medical diagnosis/family history? Trust me I have more of these but you got the point! 
+
+Why I am asking all these questions? 
+
+The whole picture matters! My goal is getting the nutrition outcomes that are expected by my clients and  without 1:1 nutrition counseling sessions it does not seem possible. 
+
+Nutrition may seem to be a complicated term until you work with the right dietitian for you. When I say right, I don’t mean it personally I mean as a teammate in your personal journey.If you are seeking for personal/individualized guidance to reach your goals and live a happy life. Make a first step and book [a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ") During the call, we will decide if we are a good fit to take the lead and start our health journey together! 
