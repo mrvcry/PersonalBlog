@@ -3,8 +3,8 @@ layout: post
 title: Why would I want to work with a Registered Dietitian?
 author: sal
 categories:
-  - Jekyll
-  - tutorial
+  - Blog
+  - professional life
 image: assets/images/17.jpg
 published: true
 ---
@@ -20,4 +20,3 @@ There are many types of services offered from dietitians such as group coaching,
 Why I am asking all these questions is because the whole picture is important for the outcomes that are expected by the client. However without  1:1 nutrition counseling sessions it does not seem possible if you are seeking for personal/individualized guidance to reach out your goals and live a happy life. 
 
 Nutrition may seem to be a complicated term until you work   with the right dietitian for you. When I say right, I don’t mean that a person could be right or wrong personally but as a teammate in your journey. Would like to learn if we are a good fit to take the lead and start our health journey book [a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ")
-
