@@ -5,8 +5,7 @@ author: john
 categories:
   - blog
   - fertility
-image: null
-beforetoc: ''
+image: assets/images/main- prenatal.jpg)
 toc: true
 published: true
 ---
