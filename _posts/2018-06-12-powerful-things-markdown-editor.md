@@ -24,6 +24,8 @@ Smell the food, be aware of the texture and color of your food. Then, take the f
 
 2. Stay in the moment. 
 
+![enjoyment-mindful.jpg]({{site.baseurl}}/assets/images/enjoyment-mindful.jpg)
+
 Don’t think about how to balance it out after you have your favorite food. Don’t try to compensate; don’t over exercise, do not eat less just because you think that you cheated on your diet UNLESS you feel full.
 
 3. Remember you are the boss.
