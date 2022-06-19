@@ -13,7 +13,9 @@ beforetoc: >-
 toc: true
 published: true
 ---
-![nyc.jpg]({{site.baseurl}}/_posts/nyc.jpg)
+
+![cheesecake.JPG]({{site.baseurl}}/assets/images/cheesecake.JPG)
+
 One food may not help someone to get pregnant or cause infertility however your overall diet can potentially help to increase odds of conception. 
 
 Here are 5 powerful nutrients to include in your diet before or during conceiving: 
