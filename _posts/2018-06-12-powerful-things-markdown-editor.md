@@ -30,6 +30,8 @@ Don’t think about how to balance it out after you have your favorite food. Don
 
 3. Remember you are the boss.
 
+![fridge-mindful.jpg]({{site.baseurl}}/assets/images/fridge-mindful.jpg)
+
 You are the only person who gets to choose what you eat! Let’s say you open the door of the fridge and see your favorite dessert there blinking to you. First take a breath and  remind yourself that you can always eat that dessert. It does not mean that if you don’t have it now, you wouldn’t miss it forever right? You made your judgment and you still feel like eating so JUST DO IT! Remember to follow the two steps above and make a note yourself how you feel afterwards.
 
 Mindful eating takes time, effort and patience but it is sustainable and it will stick with you forever. If you have never practiced mindful eating before, start with my three tips which I have been following since I decided to gave up on fad diets. I promise, you won’t regret! 
