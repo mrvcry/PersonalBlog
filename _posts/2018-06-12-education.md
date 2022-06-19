@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 5 nutrients to consider getting sufficient while trying to conceive
+title: 5 key nutrients when trying to conceive
 author: john
 categories:
   - blog
