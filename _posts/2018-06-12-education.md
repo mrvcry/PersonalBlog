@@ -3,8 +3,8 @@ layout: post
 title: Top 5 nutrients to consider getting sufficient while trying to conceive
 author: john
 categories:
-  - Jekyll
-  - tutorial
+  - blog
+  - fertility
 image: assets/images/3.jpg
 beforetoc: >-
   Markdown editor is a very powerful thing. In this article I'm going to show
