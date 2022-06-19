@@ -5,7 +5,7 @@ author: sal
 categories:
   - Blog
   - registereddietitian
-image: assets/images/17.jpg
+image: assets/images/DietitianBlog.JPG
 published: true
 ---
 
@@ -29,4 +29,4 @@ Why I am asking all these questions?
 
 The whole picture matters! My goal is getting the nutrition outcomes that are expected by my clients and  without 1:1 nutrition counseling sessions it does not seem possible. 
 
-Nutrition may seem to be a complicated term until you work with the right dietitian for you. When I say right, I don’t mean it personally I mean as a teammate in your personal journey.If you are seeking for personal/individualized guidance to reach your goals and live a happy life. Make a first step and book [a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ") During the call, we will decide if we are a good fit to take the lead and start our health journey together! 
+Nutrition may seem to be a complicated term until you work with the right dietitian for you. When I say right, I don’t mean it personally I mean as a teammate in your personal journey.If you are seeking for personal/individualized guidance to reach your goals and live a happy life. Make a first step and book [a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ") During the call, we will decide if we are a good fit to take the lead and start our health journey together!
