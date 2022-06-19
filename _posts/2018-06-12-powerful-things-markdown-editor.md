@@ -15,20 +15,19 @@ Hopefully, this post will give you a perspective of enjoying your favorite foods
 I was basically practicing mindful eating but the term was not popular as today. 
 The following steps can help you to start mindful eating; 
 
-1. Take your time.
+## Take your time.
 
 ![timing-mindful.jpg]({{site.baseurl}}/assets/images/timing-mindful.jpg)
 
 Smell the food, be aware of the texture and color of your food. Then, take the first bite and enjoy as you have never eaten that food before. This is my favorite tip even though I sometimes need to remind myself to eat mindfully by slowing down.
 
-
-2. Stay in the moment. 
+## Stay in the moment.
 
 ![enjoyment-mindful.jpg]({{site.baseurl}}/assets/images/enjoyment-mindful.jpg)
 
 Don’t think about how to balance it out after you have your favorite food. Don’t try to compensate; don’t over exercise, do not eat less just because you think that you cheated on your diet UNLESS you feel full.
 
-3. Remember you are the boss.
+## Remember you are the boss.
 
 ![fridge-mindful.jpg]({{site.baseurl}}/assets/images/fridge-mindful.jpg)
 
