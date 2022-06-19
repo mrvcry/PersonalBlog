@@ -13,6 +13,7 @@ beforetoc: >-
 toc: true
 published: true
 ---
+![nyc.jpg]({{site.baseurl}}/_posts/nyc.jpg)
 One food may not help someone to get pregnant or cause infertility however your overall diet can potentially help to increase odds of conception. 
 
 Here are 5 powerful nutrients to include in your diet before or during conceiving: 
@@ -52,4 +53,4 @@ There are two forms of Vitamin D; Vitamin D3 form is the most absorbable and ani
 Fortified milk and orange juices are the best sources of Vitamin D in addition to the sunlight. The angle of sun may not be good to absorb Vitamin D, therefore getting the blood test from your healthcare provider is the best way to check if you are deficient and take action to have a healthier fertility phase. 
 
 Disclaimer: 
-This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you a medical advice or should not be substitud with medical advice. Please see your health care provider for individualized treatment plans, diagnosis and recommendations. 
+This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you a medical advice or should not be substitud with medical advice. Please see your health care provider for individualized treatment plans, diagnosis and recommendations.
