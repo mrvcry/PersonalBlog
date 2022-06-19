@@ -3,9 +3,9 @@ layout: post
 title: " Do you restrict yourself when it comes to your favorite food? \U0001F354 \U0001F36D \U0001F368"
 author: sal
 categories:
-  - Jekyll
-  - tutorial
-image: assets/images/16.jpg
+  - blog
+  - mindful eating
+image: assets/images/Macaroon-mindful.jpg
 published: true
 ---
 
