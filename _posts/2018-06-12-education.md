@@ -49,7 +49,9 @@ Folic acid is not naturally found in foods however it can be found in some enric
 
 5- Vitamin D
 
-Sufficient Vitamin D status is substantial for fertility and later on in pregnancy. Vitamin D is responsible for musculoskeletal health to prevent rickets in kids deficiency can also lead to 
+Vitamin D is responsible for musculoskeletal health therefore sufficient Vitamin D status is substantial for fertility and later on in pregnancy. 
+
+![sunlight-prenatal.jpg]({{site.baseurl}}/assets/images/sunlight-prenatal.jpg)
 
 There are two forms of Vitamin D; Vitamin D3 form is the most absorbable and animal sourced version whereas Vitamin D2 is plant-based form which can be suitable for vegans. The recommended intake is 400 IU for pregnant women and most of the adults however higher doses can be considered to prevent deficiency by your healthcare provider's advice. 
 
