@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why would I want to work with a Dietitian?
+title: Why would you want to work with a Dietitian?
 author: sal
 categories:
   - Blog
   - registereddietitian
-image: assets/images/DietitianBlog.JPG
+image: assets/images/Dietitian-RD.jpg
 published: true
 ---
 
