@@ -4,7 +4,7 @@ title: GLUTEN-FREE BAKED OATMEAL
 author: sal
 categories:
   - Jekyll
-image: assets/images/2.jpg
+image: assets/images/Untitled%20design.jpg
 rating: 3
 published: true
 ---
