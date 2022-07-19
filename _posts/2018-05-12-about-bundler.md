@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Bundler
+title: GLUTEN-FREE BAKED OATMEAL
 author: sal
 categories:
   - Jekyll
@@ -9,7 +9,7 @@ rating: 3
 published: true
 ---
 
-I cooked this viral recipe very late. I was surprised that how good it came out because it was super easy, healthy, yummy and most importantly mess-free. 
+I was one of the last person to try this viral recipe and I regret that I did not try it earlier. Baking the oatmeal in one dish was a great idea! Also this recipe is super easy, healthy, mess-free and most importantly yum! You can cook this as a part of your meal-plan and keep in the refrigirater for up to 4 days!
 
 
 **BAKED OATMEAL**
@@ -41,6 +41,6 @@ One Fork
 
 
 
-PS: If you like it crispy you can bake until the oats turn golden brown or for 30-35 minutes.
+PS: If you like it crispy you can bake until the oats turn golden brown or for 30-35 minutes. 
 
 
