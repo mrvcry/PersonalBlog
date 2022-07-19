@@ -1,17 +1,46 @@
 ---
 layout: post
-title:  "About Bundler"
+title: About Bundler
 author: sal
-categories: [ Jekyll ]
+categories:
+  - Jekyll
 image: assets/images/2.jpg
 rating: 3
+published: true
 ---
-`gem install bundler` installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:
 
-`bundler` is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.
+I cooked this viral recipe very late. I was surprised that how good it came out because it was super easy, healthy, yummy and most importantly mess-free. 
 
-The `Gemfile` and `Gemfile.lock` files inform `Bundler` about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit `bundle exec` and just `run jekyll serve`.
 
-When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as specified in `Gemfile.lock` to ensure your Jekyll site builds with no compatibility or dependency conflicts.
+**BAKED OATMEAL**
 
-For more information about how to use `Bundler` in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.
+Serves: 9 
+
+Ingredients
+ 
+- 2 small or 1 large ripe bananas
+- 1 cup gluten-free rolled oats 
+- 1 tablespoon chia seeds 
+- 1 cups of choice of milk (I used lactaid)
+- 1 cup fresh or frozen mixed berries (I used fresh berries)
+- 2 tbsp 100% peanut butter or any nut butter
+- ½ teaspoon cinnamon
+- Cooking Spray (I used Avacodo oil)
+
+Equipment:
+Ceramic or pyrex dish (square; 8x8 inch or rectangle; 8x11 inch both works!)
+One Fork
+
+-  1- Preheat the oven to 350F.
+-  2- Spray the baking pan.
+-  3- Mash the bananas in baking pan with a fork. 
+-  4- Add the oats on top, then chia seeds and cinnamon.
+-  5- Pour the milk and add the peanut butter.
+-  6- Mix with a fork.
+-  7- Finally add the berries on top and bake for 25 minutes or until the middle is almost set.
+
+
+
+PS: If you like it crispy you can bake until the oats turn golden brown or for 30-35 minutes.
+
+
