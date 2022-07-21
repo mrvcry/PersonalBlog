@@ -9,7 +9,7 @@ featured: true
 hidden: true
 published: true
 ---
-Ready to a fresh start? Feeling confident around food and ENJOY life?
+Ready to a fresh start? 
 
 -We will end the nutrition dilemma that leads to question yourself in everyday choices throughout your life. We will work on things you don’t know instead what you already know and to do that we will be meeting one-on-one, biweekly. 
 
