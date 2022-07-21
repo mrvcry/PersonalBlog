@@ -4,7 +4,7 @@ title: 3-Month Nutrition Program
 categories:
   - Packages
   - Nutrition Coaching
-image: assets/images/12.jpg
+image: assets/images/3-MONTH%20NUTRITION%20COUNSELING.jpg
 featured: true
 hidden: true
 published: true
@@ -26,4 +26,4 @@ This package includes:
 - Ongoing unlimited email support
 
 
- <a href="mailto:hello@dietitiannewyork.com" style="background: #E5989B;color: white;border-radius: 6px;box-sizing: border-box;border: 1px solid #B5838D;min-height: 40px;padding: 7px 14px;text-align: center;">Contact Me</a> 
+ <a href="mailto:hello@dietitiannewyork.com" style="background: #E5989B;color: white;border-radius: 6px;box-sizing: border-box;border: 1px solid #B5838D;min-height: 40px;padding: 7px 14px;text-align: center;">Contact Me</a>
