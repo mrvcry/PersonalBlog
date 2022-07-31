@@ -21,6 +21,7 @@ There are many versions of intermittent fasting(IF). However, there are three ma
 3- Time-restricted fasting (16:8) is known as the most popular. You or your dietitian create an eating window which works best with your schedule and you don’t consume anything with calories besides this window.For example, if you do 16:8; you can start eating at 10 am and eat or drink until 6 pm.
 
 **-Is Intermittent fasting helping you to lose weight/burn fat?**
+
 Some researchers found that IF can help you to lose body weight by burning fat.  Contrary to these findings, some researchers concluded that IF is not superior to calorie-deficit diets. Therefore, there is definitely need for more research on this subject. 
 
 **-Is it another fad diet?**
