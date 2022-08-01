@@ -1,16 +1,26 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title: Red Riding Hood
 author: sal
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/1.jpg
+published: true
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+Last week, I visited my husband at Twitter NYC office for a lunch date. As a dietitian, I was impressed by how they take good care of their staff in terms of serving a variety of healthy foods around the office. It was a Taco Tuesday and there was a big salad bar which I enjoyed most for lunch. My husband told me that the salad bar is always there for lunch. There was also a snack bar with coffee/tea/booze options in every floor. I had a chance to compare my previous corporate job experience by remembering those days that I was counseling clients for a big corporate company which was not serving the best food for their staff. I remembered how I struggled to change the way my clients look or think about food while the company does not care about the environment around them. But even then I was not desperate, I believed in my clients. I knew that if they ask for guidance, they were ready to do things better.
+ 
+ 
+> The sedentary lifestyle and eating out are the two common disadvantages of corporate lifestyle. 
+I know it is not easy to follow healthy lifestyle along with all the stress and unhealthy environment around you. And yes, it is okey to want to order a burger to feel better instead of cooking after a long busy day at work. I get it, I really do. 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+But the power is in your hand! You can always change the directions of your habits especially if you have great options in your work space. You may need a little guidance which is totally fine and doable. If you think the same, I am here to help! 
+ 
+Stay healthy and shine!
+ 
+Love,
+M
+ 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray 
