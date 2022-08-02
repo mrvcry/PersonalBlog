@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GLUTEN-FREE BAKED OATMEAL
+title: Gluten-free Baked Oatmeal
 author: sal
 categories:
   - Jekyll
