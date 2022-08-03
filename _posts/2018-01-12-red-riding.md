@@ -5,7 +5,7 @@ author: sal
 categories:
   - blog
   - corporate dietitian
-image: assets/images/twitter food.jpg
+image: assets/images/Untitled%20design.jpg
 published: true
 ---
 
@@ -19,6 +19,7 @@ But the power is in your hand! You can always change the directions of your habi
 Stay healthy and shine!
  
 Love,
+
 M
  
 
