@@ -5,7 +5,7 @@ author: sal
 categories:
   - blog
   - corporate dietitian
-image: assets/images/Untitled%20design.jpg
+image: assets/images/corporatefood.jpg
 published: true
 ---
 
