@@ -19,8 +19,6 @@ Here are 5 powerful nutrients to include in your diet before or during conceivin
 
 Eicosapentaenoic acid(EPA),  docosahexaenoic acid(DHA) and alpha-linolenic acid (ALA) are three mainly known Omega-3 amino acids. 
 
-![Untitled design.jpg]({{site.baseurl}}/assets/images/Untitled design.jpg)
-
 EPA and DHA are primarily found in seafood and both have a key role in fetal brain and retina development. Daily recommendation of DHA is 200 mg. Total EPA and DHA recommendation varies between 400-550 mg/day with the 200 mg DHA by consuming at least 8 ounces(before pregnancy) to 12 ounces(during pregnancy) of seafood that is low in mercury and/or with Omega-3 acid supplementation from fish oils.
 
 It is important to start omega 3s 3 months before pregnancy to get the maximum benefits on fetal brain and retina development. Remember Omega-3 consumption may not be as  effective as when consuming after-pregnancy.
