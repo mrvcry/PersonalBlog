@@ -5,8 +5,9 @@ author: sal
 categories:
   - blog
   - mindful eating
-image: assets/images/Macaroon-mindful.jpg
+image: assets/images/foodfreedom_me.jpg
 published: true
+date: 07-06-2022
 ---
 
 I was a dieter in my teenage years because I was the only overweight teen in the family and friends circle. Therefore, I tried every single fad diet which can be found in any newspaper (no internet, back in the old times!). I was avoiding eating my favorite foods all the time thanks to the diet culture. Then, I found a way to ENJOY eating by incorporating all the foods I love in my diet without compromising my health. 
