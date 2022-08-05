@@ -8,7 +8,7 @@ categories:
 image: assets/images/Copy of Copy of Untitled Design.jpg
 published: true
 last_modified_at: 8/4/2022
-date: 08-05-2022
+date: 08-01-2022
 ---
 Intermittent fasting(IF) is an eating pattern that has been followed by celebrities, influencers and the wellness world for almost a decade. I will break down the IF to give you a brief explanation from the point of a dietitian. 
 
