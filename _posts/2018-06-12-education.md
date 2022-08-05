@@ -5,7 +5,7 @@ author: Merve Ciray MS RDN
 categories:
   - blog
   - fertility
-image: assets/images/main- prenatal.jpg
+image: assets/images/prenatal.jpg
 toc: true
 published: true
 date: 06/01/2022
