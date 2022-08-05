@@ -1,6 +1,6 @@
 ---
 layout: post
-title: External Featured Image
+title: 'Mediterranean Diet '
 author: sal
 categories:
   - mediterranean diet
