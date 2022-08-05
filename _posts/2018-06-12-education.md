@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 5 key nutrients when trying to conceive
-author: john
+title: 5 nutrients to consider to get sufficient while trying to conceive
+author: Merve Ciray MS RDN
 categories:
   - blog
   - fertility
 image: assets/images/main- prenatal.jpg
 toc: true
 published: true
+date: 06/01/2022
 ---
 
 One food may not help someone to get pregnant or cause infertility however your overall diet can potentially help to increase odds of conception. 
