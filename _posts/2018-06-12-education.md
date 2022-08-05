@@ -32,6 +32,7 @@ Choline supports the baby's spinal cord and may protect the unborn baby from inf
 Choline is also naturally found in animal sources such as egg, lean beef, poultry and fish(cod). There are also plant-based choline sources such as brussels sprouts, broccoli, legumes and nuts. 
 
 3- Iron 
+
 Iron is a vital mineral which carries oxygen to the body and iron deficiency anemia can cause ovulatory problems when trying to conceive. 
 The daily recommended iron intake for reproductive-aged women is 18 mg and 27 mg while pregnant. 
 There are two types of dietary iron to include in the diet .These are known as heme-iron and non-heme iron. Heme-iron is mostly found in animal products such as liver, red meat, poultry and nonheme-iron can be found in legumes, eggs, dark green vegetables, nuts and whole grains. Increasing the consumption of non-heme iron is suggested to potentially help to improve pregnancy outcomes. 
