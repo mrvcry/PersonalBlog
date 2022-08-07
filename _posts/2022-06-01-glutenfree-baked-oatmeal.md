@@ -6,7 +6,7 @@ categories:
   - recipe
   - gluten free
 image: assets/images/baked oatmeal image.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
