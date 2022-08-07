@@ -3,8 +3,10 @@ published: true
 layout: post
 title: Gluten-Free Baked Oatmeal Recipe
 categories:
-  - recipe - gluten free
+  - recipe
+  - gluten free
 image: assets/images/baked oatmeal image.jpg
+featured: true
 ---
 
 **BAKED OATMEAL**
@@ -62,4 +64,3 @@ Stay healthy and shine!
 Love,
 
 MC
-
