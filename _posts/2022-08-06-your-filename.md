@@ -8,7 +8,9 @@ image: assets/images/baked oatmeal image.jpg
 ---
 
 **BAKED OATMEAL**
+
 Dietary notes: Vegeterian, Gluten Free
+
 Serves: 9 
 
 **Ingredients**
