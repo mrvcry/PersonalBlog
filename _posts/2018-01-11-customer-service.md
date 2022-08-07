@@ -12,6 +12,7 @@ description: >-
 featured: true
 hidden: true
 published: true
+date: 03-05-2022
 ---
 
 This program includes everything from the 3-month program and additionally 6 follow-up sessions(total of 12 follow-up sessions with dietitian). 
