@@ -4,7 +4,7 @@ title: 3-Month Nutrition Program
 categories:
   - Packages
   - Nutrition Coaching
-image: assets/images/3 MONTH NUTRITION COUNSELING.jpg
+image: assets/images/3-MONTH.jpg
 featured: true
 hidden: true
 published: true
