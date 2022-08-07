@@ -8,6 +8,7 @@ categories:
   - web development
 image: assets/images/Mediterranean diet main.jpg
 published: true
+hidden: false
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
