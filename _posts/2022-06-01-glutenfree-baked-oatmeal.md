@@ -32,7 +32,7 @@ Serves: 9
 
 ½ teaspoon cinnamon
 
-Cooking Spray (I used [Avacodo oil])
+Cooking Spray (I used Avacado Oil)
  
 **Equipment:**
 Ceramic or pyrex dish (square; 8x8 inch or rectangle; 8x11 inch both works!)
