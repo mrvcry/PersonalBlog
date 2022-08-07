@@ -7,6 +7,7 @@ categories:
 image: assets/images/baked oatmeal image.jpg
 rating: 3
 published: true
+hidden: true
 ---
 
 I was one of the last person to try this viral recipe and I regret that I did not try it earlier. Baking the oatmeal in one dish was a great idea! Also this recipe is super easy, healthy, mess-free and most importantly yum! You can cook this as a part of your meal-plan and keep in the refrigirater for up to 4 days!
@@ -40,5 +41,8 @@ One Fork
 -  7- Finally add the berries on top and bake for 25 minutes or until the middle is almost set.
 
 
-
 PS: If you like it crispy you can bake until the oats turn golden brown or for 30-35 minutes.
+
+ENJOY!
+
+
