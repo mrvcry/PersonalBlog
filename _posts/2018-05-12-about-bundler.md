@@ -44,5 +44,3 @@ One Fork
 PS: If you like it crispy you can bake until the oats turn golden brown or for 30-35 minutes.
 
 ENJOY!
-
-
