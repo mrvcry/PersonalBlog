@@ -10,9 +10,8 @@ featured: false
 hidden: false
 ---
 
-**BAKED OATMEAL**
-
 Dietary notes: Vegeterian, Gluten Free
+
 
 Serves: 9 
 
