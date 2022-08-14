@@ -8,6 +8,7 @@ categories:
 image: assets/images/foodfreedom_me.jpg
 date: 07-01-2022
 title: food restriction
+hidden: false
 ---
 
 **How to avoid food restriction?**
