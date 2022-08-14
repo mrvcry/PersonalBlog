@@ -7,7 +7,7 @@ categories:
   - mindful eating
 image: assets/images/foodfreedom_me.jpg
 date: 07-01-2022
-title: food restriction
+title: How to avoid Food Restriction?
 hidden: false
 ---
 
