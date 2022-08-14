@@ -38,7 +38,11 @@ Serves: 1
 - 
 - pinch of salt
 
-**Instructions**__
+
+![chickpea salad prep.jpg]({{site.baseurl}}/_posts/chickpea salad prep.jpg)
+
+
+**Instructions**
 
 1-Make the salad: In a large bowl, toss all together greens, chickpeas, tomatoes, cucumber, bell pepper and feta. 
 
