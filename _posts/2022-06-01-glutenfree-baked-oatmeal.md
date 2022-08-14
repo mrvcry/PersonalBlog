@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: glutenfree-baked-oatmeal
+title: Gluten-free Baked Oatmeal
 categories:
   - recipe
   - gluten free
