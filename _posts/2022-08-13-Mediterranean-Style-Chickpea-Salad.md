@@ -8,8 +8,6 @@ image: assets/images/chickpea salad.jpg
 ---
 
 
-**Mediterranean Style One jar Chickpea Salad**
-
 Dietary notes: Vegeterian, Gluten Free
 
 Serves: 1
