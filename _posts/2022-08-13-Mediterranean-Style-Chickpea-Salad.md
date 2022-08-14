@@ -15,15 +15,15 @@ Serves: 1
 **Ingredients**
 
 - 2 cup spring mix, triple washed
-- 
+
 - ½ can garbanzo chickpeas, washed and drained
-- 
+
 - 1 small bell pepper, chopped 
-- 
+
 - 1 medium tomato, cut into cubes 
-- 
+
 - 1 medium cucumber, chopped 
-- 
+ 
 - 3 oz feta crumbles
 
 
@@ -31,11 +31,11 @@ Serves: 1
 **For Dressing:**
 
 - 1 tsp olive oil
-- 
+ 
 - 1 tsp tahini
-- 
+ 
 - 1 tbsp lemon juice
-- 
+ 
 - pinch of salt
 
 
@@ -50,7 +50,7 @@ Serves: 1
 
 3-Combine salad and dressing and mix well.
 
-**PS:**If you want to add more Mediterranean vibe you can add some green olives to your salad.
+**PS:**If you want to add more Mediterranean vibe you can add 5-6 pitted green olives to your salad.
 
 
 ENJOY!
