@@ -23,8 +23,6 @@ There are many types of services offered from dietitians such as group coaching,
 
 **How is my one-on-one nutrition counseling practice?**
 
-![DietitianBlog.JPG]({{site.baseurl}}/assets/images/DietitianBlog.JPG)
-
 I believe nutrition counseling must be extremely individualized and tailored to the client's needs and current lifestyle to be as sustainable as possible. Because I want my client to learn, experience and feel the power of eating for a lifetime not for an x amount of time. To do this, I need to know my clients by all means. What cuisine have you been raised into? What are your stable foods?  What diet have you been following? Where do you go for  grocery shopping? When do you wake up? What food do you like/dislike? Any medical diagnosis/family history? Trust me I have more of these but you got the point! 
 
 Why I am asking all these questions? 
