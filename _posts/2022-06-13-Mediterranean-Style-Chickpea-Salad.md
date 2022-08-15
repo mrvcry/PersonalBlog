@@ -39,7 +39,7 @@ Serves: 1
 - pinch of salt
 
 
-![chickpea salad prep.jpg]({{site.baseurl}}/_posts/chickpea salad prep.jpg)
+![]({{site.baseurl}}/_posts/chickpea%20salad%20prep.jpg)
 
 
 **Instructions**
