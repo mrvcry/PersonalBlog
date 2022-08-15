@@ -12,7 +12,7 @@ Last week, I visited my husband at Twitter NYC office for a lunch date. As a die
 > The sedentary lifestyle and eating out are the two common disadvantages of corporate lifestyle. 
 I know it is not easy to follow healthy lifestyle along with all the stress and unhealthy environment around you. And yes, it is okey to want to order a burger to feel better instead of cooking after a long busy day at work. I get it, I really do. 
 
-But the power is in your hand! You can always change the directions of your habits especially if you have great options in your work space. You may need a little guidance which is totally fine and doable. If you think the same, I am here to help! 
+But the power is in your hand! You can always change the directions of your habits especially if you have great options in your work space. You may need a little guidance which is totally fine and doable. If you think the same, I am here to help! [Book a free discovery call with me ASAP!](https://calendly.com/dietitiannewyork/15min "calendly ")
  
 Stay healthy and shine!
  
