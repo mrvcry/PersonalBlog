@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Merve Ciray MS RDN
 categories:
@@ -59,5 +59,3 @@ Love,
 M
 
 **> Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray> We loved with a love that was more than love**
-
-
