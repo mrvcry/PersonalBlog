@@ -7,6 +7,7 @@ categories:
   - registereddietitian
 image: assets/images/Dietitian-RD.jpg
 published: true
+hidden: true
 ---
 
 **Who are we?**
