@@ -9,7 +9,6 @@ image: assets/images/CareerUpdate.jpg
 
 ## Hello!
 
-
 I am sorry I haven't been blogging as I should but it took some time for me to get back here! 
 
 ![CareerUpdate.jpg]({{site.baseurl}}/assets/images/CareerUpdate.jpg)
