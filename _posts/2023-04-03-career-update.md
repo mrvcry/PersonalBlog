@@ -4,6 +4,7 @@ layout: post
 categories:
   - blog
   - dietitian career
+image: assets/images/CareerUpdate.jpg
 ---
 
 ## Hello!
