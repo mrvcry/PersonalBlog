@@ -12,7 +12,7 @@ image: assets/images/CareerUpdate.jpg
 
 I am sorry I haven't been blogging as I should but it took some time for me to get back here! 
 
-assets/images/CareerUpdate.jpg
+![CareerUpdate.jpg]({{site.baseurl}}/assets/images/CareerUpdate.jpg)
 
 I became a nutrition professor and program director at CUNY Schools! In addition to teaching as a full-time lectuter, I am advising students who are interested in Nutrition related jobs such as nutrition educator, food service manager,, dietary tech etc.I understand that Registered Dietitian path is tough and not convenient for everyone. If you are interested I can give you more details on this later on! 
 
