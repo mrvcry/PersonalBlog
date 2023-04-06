@@ -9,9 +9,12 @@ image: assets/images/CareerUpdate.jpg
 
 ## Hello!
 
+
 I am sorry I haven't been blogging as I should but it took some time for me to get back here! 
 
-First of all, I became a nutrition professor and program director at CUNY Schools! In addition to teaching as a full-time lectuter, I am advising students who are interested in Nutrition related jobs such as nutrition educator, food service manager,, dietary tech etc.I understand that Registered Dietitian path is tough and not convenient for everyone. If you are interested I can give you more details on this later on! 
+assets/images/CareerUpdate.jpg
+
+I became a nutrition professor and program director at CUNY Schools! In addition to teaching as a full-time lectuter, I am advising students who are interested in Nutrition related jobs such as nutrition educator, food service manager,, dietary tech etc.I understand that Registered Dietitian path is tough and not convenient for everyone. If you are interested I can give you more details on this later on! 
 
 One course that I am teaching is called Food, Society and Health. This course is an indebt exploration of foods and foodways of diverse populations and cultures. 
 I basically teach my students to be culturally competent when they are counseling people from other cultures. They are learning how important to value other cultures by being aware of their customs, food stables, etc. We are discussing the cuisines from all around the world then we cook some well known recipes and taste them. Yay!
