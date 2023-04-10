@@ -45,7 +45,7 @@ I always love what I do and how I touch the life of people who I work with. I lo
                         <div class="card-body">
                             
                             <p>Merve is a Registered Dietitian Nutritionist with one Bachelor's and two Master's degrees in Nutrition and Dietetics. She has been working for 8 years as a nutrition professional in hospitals and corporate setttings. She is currently working as a full-time college professor and program director in New York City. She is still enjoying providing one-on-one nutrition counseling in her private practice DNY. She is working with people who wants to achieve specific nutrition goals such as weight management, healthy living with chronic conditions (prediabetes, PCOS, diabetes,CVD, renal disease, GI problems) , exercise nutrition, pre/postnatal nutrition and more by providing individualized nutrition counseling. Her services include virtual nutrition counseling sessions along with custom meal plans. 
-</p>
+</p> Fun fact about Merve: She had to become a dietitian twice! But why? First, she earned her degree and credentials in Turkiye. Then,she moved to New York and she had to do things over to practice in the United States as an International dietitian. She completed required coursework, 1000+ hours of supervised practice in outpatient, clinical and public health settings. Finally, she sit for the National Dietitian Exam and became a dietitian again! Feel free to contact her if you have any questions regarding this topic as well!  
 <p>
 
 </p>
