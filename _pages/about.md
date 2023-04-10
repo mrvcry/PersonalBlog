@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Merve Ciray, MS, RDN'
+title: 'Merve Ciray, MS, RDN, CDN'
 permalink: /about
 comments: true
 published: true
