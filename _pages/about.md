@@ -9,8 +9,7 @@ published: true
 <!--<div class="row justify-content-between">
 <div class="col-md-12 pr-5">
 
-<p>Hi there! I am a Registered Dietitian Nutritionist Merve. I have Bachelor's and two Master's degrees in Nutrition and Dietetics from Istanbul and New York. Before moving to New York,  I worked at a clinical setting in Istanbul as a Clinical Dietitian; I provided nutrition education, counseling and individuzlied meal plans for more than 300 patients annually. 
-Additionally, I worked with companies to provide preventive nutrition care to improve quality of life of white-collered employees. I provided nutrition workshops, seminars and 1:1 coaching as a corporate dietitian.
+<p> Merve is a Registered Dietitian Nutritionist with one Bachelor's and two Master's degrees in Nutrition and Dietetics. She has been working for 8 years as a nutrition professional in hospitals and corporate setttings. She is currently working as a full-time college professor and program director in New York City. She is still enjoying providing one-on-one nutrition counseling in her private practice DNY. She is working with people who wants to achieve specific nutrition goals such as weight management, healthy living with chronic conditions (prediabetes, PCOS, diabetes,CVD, renal disease, GI problems) , exercise nutrition, pre/postnatal nutrition and more by providing individualized nutrition counseling. Her services include virtual nutrition counseling sessions along with custom meal plans. 
 </p>
 
 
