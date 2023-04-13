@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/PCOS Reminder.jpg
 ---
 ## PCOS solutions from your Registered Dietitian
@@ -42,5 +42,3 @@ M
 If you like this post, please show your support by following me on social media! Also, feel free to schedule a free call if you are looking for dietitian! 
 
 > Let’s connect: Instagram @dietitianny; Twitter @dietitianny
-
-
