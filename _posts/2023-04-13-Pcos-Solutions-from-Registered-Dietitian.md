@@ -15,8 +15,6 @@ It does not have to be crazy. Do vinyasa yoga, stretching or explore your option
 
 ## Breakfast
 
-![PCOS solutions.jpg]({{site.baseurl}}/_posts/PCOS solutions.jpg)
-
 Skipping breakfast is not a great idea if you have PCOS. Research shows eating big and balanced breakfast can prevent insulin spikes in people with PCOS throughout the day. The key is to keep sugar in certain levels by eating regularly.
 
 Researches recommend breakfasts to consist of at least 20 grams of HBV protein, 30-45 grams of complex carbohydrate, and healthy oils such as chia seeds, avocado, walnuts.
