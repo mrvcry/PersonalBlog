@@ -2,7 +2,6 @@
 published: true
 image: assets/images/PCOS Reminder.jpg
 ---
-## PCOS solutions from your Registered Dietitian
 
 ##  What is PCOS?
 
