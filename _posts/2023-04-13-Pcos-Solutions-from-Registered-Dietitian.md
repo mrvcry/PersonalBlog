@@ -1,6 +1,6 @@
 ---
 published: true
-image: assets/images/PCOS Reminder.jpg
+image: assets/images/PCOS solutions.jpg
 ---
 
 ##  What is PCOS?
