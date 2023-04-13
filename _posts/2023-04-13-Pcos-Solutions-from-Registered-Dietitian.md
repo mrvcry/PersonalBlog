@@ -5,7 +5,7 @@ image: assets/images/PCOS solutions.jpg
 
 ##  What is PCOS?
 
-Polycystic Ovary Syndrome is characterized by irregular menstruation, abnormal hormone levels(high levels of testosterone), hirsutism(overgrowth of hair in the body) and increased number of follicle count. Unfortunately, women with PCOS are more likely to develop insulin resistance and diabetes as well. Here are some suggestions to overcome PCOS symptoms:
+Polycystic Ovary Syndrome is characterized by irregular menstruation, abnormal hormone levels(high levels of testosterone), hirsutism(overgrowth of hair in the body parts) and increased number of follicle count. Unfortunately, women with PCOS are more likely to develop insulin resistance and diabetes as well. Here are some suggestions to overcome PCOS symptoms:
 
 
 ## Exercising
