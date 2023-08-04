@@ -5,7 +5,7 @@ categories:
   - blog
   - prenatal
   - morning sickness
-image: assets/images/Morning Sickness.jpg
+image: assets/images/Mornin Sickness2.jpg
 ---
 ## 4 easy ways to ease Morning Sickness
 
