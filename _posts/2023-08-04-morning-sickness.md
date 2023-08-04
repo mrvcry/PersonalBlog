@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 categories:
   - blog
-  - intermittent fasting
+  - prenatal
+  - morning sickness
 image: assets/images/Morning Sickness.jpg
 ---
 ## 4 easy ways to ease Morning Sickness
@@ -29,4 +30,3 @@ M
 
 > If you like this post, please show your support by following me on social media! Also, feel free to schedule a free call if you are looking for dietitian!
 Let’s connect: Instagram @dietitianny; Twitter @dietitianny
-
