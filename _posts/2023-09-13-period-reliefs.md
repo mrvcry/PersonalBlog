@@ -16,7 +16,7 @@ Caffeine: Let’s be honest…There is no way I am saying no to caffeine but may
 Second, caffeine may increase menstrual cramps due to the vasoconstrictor effect. Try to substitute one cup of coffee to herbal tea such as chamomile or fennel to decrease the pain and even with bloating.
 Incorporating whole-foods and decreasing processed and fatty food intake can help with bloating.
 
-Supplements: Vitamin b6 and iron supplements found to decrease menstrual cramps and bloating when it is taken regularly a week before the period started. 
+Supplements: Vitamin b6, magnesium and iron supplements found to decrease menstrual cramps and bloating when it is taken regularly a week before the period started. 
 
 Personally, I am taking advantage of taking B6 in advance and drinking fennel tea as soon as I feel it is coming..Also wearing socks definitely help with cramps(yes I love socks and I am not American lol).
 
