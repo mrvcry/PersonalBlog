@@ -29,5 +29,3 @@ M
 
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
-
