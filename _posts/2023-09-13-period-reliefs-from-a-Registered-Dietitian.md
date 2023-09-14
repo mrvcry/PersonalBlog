@@ -5,6 +5,7 @@ categories:
   - blog
   - women wellness
   - period reliefs
+image: assets/images/Period Reliefs_DNY.jpg
 ---
 
 Menstrual phase usually lasts 3 to 7 days. During this period progesterone and estrogen hormones are low which explains low energy level and sluggishness.
