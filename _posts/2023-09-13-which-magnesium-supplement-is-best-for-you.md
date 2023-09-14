@@ -6,7 +6,7 @@ categories:
   - magnesium supplement
   - women wellness
   - prenatal vitamin
-image: aassets/images/Mangesium type_DNY.jpg
+image: assets/images/Mangesium type_DNY.jpg
 ---
 
 The best magnesium supplement for you will depend on your individual needs and preferences. 
