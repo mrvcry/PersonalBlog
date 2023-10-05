@@ -8,6 +8,8 @@ categories:
 image: assets/images/Prenanancy daily dozen_DNY.jpg
 ---
 
+Are you sure you are getting enough while you are expecting?
+
 ## Prenatal Supplement Checklist
 
 **Folic Acid(folate):**at least 400-600 mcg not more than 1,000 mg
