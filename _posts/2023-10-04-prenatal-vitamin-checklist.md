@@ -32,7 +32,9 @@ Are you sure you are getting enough while you are expecting?
 
 
 Daily Recommended Intake for the following vitamins:
-**DRI:**Vitamin E: 15 mg; Thiamin: 1.4 mg; Riboflavin: 1.4 mg; Niacin: 18 mg and B12: 2.6 mg
+**DRI*:**Vitamin E: 15 mg; Thiamin: 1.4 mg; Riboflavin: 1.4 mg; Niacin: 18 mg and B12: 2.6 mg
+
+
 *Some prenatals include 2-3 times more of these vitamins 
 
 In addition, a 200 mg DHA supplement is recommended for baby’s brain development especially at the last trimester. 
@@ -52,4 +54,3 @@ Love,
 M
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
