@@ -9,6 +9,8 @@ image: assets/images/10 foods to avoid during Pregnancy.jpg
 ---
 
 
+As pregos, we need to avoid some of the foods ht we love to take good care of our little ones..
+
 **1.Cheese:**
 
 Soft cheese such as fresh mozzarella, feta, camembert, brie, roquefort, Gorgonzola and Mexican style cheeses like Queso Fresco and Queso Blanco should be avoided due to Listeria risk. 
