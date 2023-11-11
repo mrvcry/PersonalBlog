@@ -79,7 +79,7 @@ Stay healthy and shine with your baby!
 
 Love,
 
-M
+Prenatal Registered Dietitian
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
 
