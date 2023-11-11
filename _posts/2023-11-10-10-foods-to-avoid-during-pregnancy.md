@@ -9,7 +9,7 @@ image: assets/images/10 foods to avoid during Pregnancy.jpg
 ---
 
 
-As pregos, we need to avoid some of the foods ht we love to take good care of our little ones..
+As pregos, we need to avoid some of the foods that we love to take good care of our little ones..
 
 **1.Cheese:**
 
