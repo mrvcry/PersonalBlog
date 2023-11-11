@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories:
   - blog
@@ -82,4 +82,3 @@ Love,
 Prenatal Registered Dietitian
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
