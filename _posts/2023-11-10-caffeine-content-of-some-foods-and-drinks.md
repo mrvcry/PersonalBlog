@@ -22,6 +22,7 @@ Soft Drinks 12 oz | 35 mg
 Green Tea 6 oz | 40 mg
 Black Tea 6 oz | 45 mg
 
+
 There are average caffeine content for coffee below, I recommend to check the specific blend & café that you purchase from for specific levels.
 
 This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
