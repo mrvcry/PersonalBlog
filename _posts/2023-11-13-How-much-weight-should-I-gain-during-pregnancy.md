@@ -41,5 +41,3 @@ If you are expecting, feel free to join my FB group where we share our current a
 Sending love to you and your babies,
 
 Prenatal Registered Dietitian
-
-
