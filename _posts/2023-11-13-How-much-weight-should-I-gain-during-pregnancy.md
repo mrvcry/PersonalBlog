@@ -11,10 +11,10 @@ I know many pregnant women who are curious about the weight that they should gai
 For example, if you were underweight before getting pregnant you need to gain more weight compared to someone who has normal BMI. Here are the recommended weight gain ranges for pregnant women:
 
 
-Underweight: 28-40 pounds
-Normal weight: 25-35 pounds
-Overweight: 15-25 pounds
-Obese: 11-20 pounds
+Underweight, BMI <18.5 kg/m2 : 28-40 pounds
+Normal weight, BMI 18.5-24.9 kg/m2 : 25-35 pounds
+Overweight, 25-29.9 kg/m2 : 15-25 pounds
+Obese, 30 kg/m2 or higher : 11-20 pounds
 
 **OR**
 
