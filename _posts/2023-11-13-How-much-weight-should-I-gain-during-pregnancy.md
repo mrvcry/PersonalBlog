@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/Pregnancy weight gain.png
 ---
 
