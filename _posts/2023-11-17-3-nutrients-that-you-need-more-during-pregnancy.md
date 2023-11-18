@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/3 nutrients you need more during pregnancy.jpg
 ---
 
@@ -40,4 +40,3 @@ Love,
 Prenatal Registered Dietitian 
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
