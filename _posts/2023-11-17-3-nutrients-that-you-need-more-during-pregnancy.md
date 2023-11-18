@@ -15,7 +15,7 @@ Table 1
 ({{site.baseurl}}/assets/images/Best sources of Folate.jpg)
 
 
-> Prenatal supplements usually include 1 mg of folic acid which is sufficient and more than 1 mg is not recommended. Read my [prenatal checklist blog](https://www.dietitiannewyork.com/prenatal-vitamin-checklist/)post for more information!                                                                                                                                                                                  
+> Prenatal supplements usually include 1 mg of folic acid which is sufficient and more than 1 mg is not recommended. Read my [prenatal checklist blog] (https://www.dietitiannewyork.com/prenatal-vitamin-checklist/)post for more information!                                                                                                                                                                                  
 2. Iron: Iron is important for carrying oxygen to your baby. Pregnant women need to consume about 27 milligrams of iron every day whereas adult females only need 18 mg iron in a day.
 
 
