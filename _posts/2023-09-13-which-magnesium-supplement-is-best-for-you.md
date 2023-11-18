@@ -23,8 +23,10 @@ Here are some of the most popular and effective magnesium supplements:
 
 4. Magnesium chloride: This form of magnesium is dissolved in water, making it a good choice for people who have trouble swallowing pills.
 
-If you are pregnant or planning to have a baby soon, I have additional note for you. Research shows that taking 100 mg magnesium supplement during pregnancy suggested to decrease the following risks: intrauterine growth retardation, preterm labor, maternal body mass index, neonatal weight, pregnancy-induced hypertension, preeclampsia, gestational diabetes mellitus, cramps of the leg. Prenatals generally do not contain magnesium, so you may need to take them additionally to prevent any of the risks below throughout this journey. I personally use this one since it is in magnesium citrate form.
-Hope you find this helpful!
+If you are pregnant or planning to have a baby soon, I have additional note for you. Research shows that taking 100 mg magnesium supplement during pregnancy suggested to decrease the following risks: intrauterine growth retardation, preterm labor, maternal body mass index, neonatal weight, pregnancy-induced hypertension, preeclampsia, gestational diabetes mellitus, cramps of the leg. 
+
+_Prenatals generally do not contain magnesium, so you may need to take them additionally to prevent any of the risks below throughout this journey. I personally use this one since it is in magnesium citrate form.
+Hope you find this helpful!_
 
 > If you are unsure which magnesium supplement is right for you, talk to your doctor or a registered dietitian. They can help you choose a supplement that is right for your individual needs.
 
