@@ -12,7 +12,7 @@ Main sources of folate including green leafy vegetables, fortified grains, legum
 
 Table 1
 
-({{site.baseurl}}/assets/images/Best sources of Folate.jpg)
+![Best sources of Folate.jpg]({{site.baseurl}}/assets/images/Best sources of Folate.jpg)
 
 
 > Prenatal supplements usually include 1 mg of folic acid which is sufficient and more than 1 mg is not recommended. Read my [prenatal checklist blog] (https://www.dietitiannewyork.com/prenatal-vitamin-checklist/)post for more information!                                                                                                                                                                                  
@@ -21,7 +21,7 @@ Table 1
 
 Table 2
 
-!({{site.baseurl}}/assets/images/Best sources of Iron.jpg)
+![Best sources of Iron.jpg]({{site.baseurl}}/assets/images/Best sources of Iron.jpg)
 
 
 **3. Protein:** Adequate protein intake is essential during pregnancy for so many reasons including expanding the blood volume for growing the fetus, creating maternal tissues and building muscles and bones. Recommended daily intake for pregnant women increased by ~40% = 1.1g/kg during pregnancy. 
