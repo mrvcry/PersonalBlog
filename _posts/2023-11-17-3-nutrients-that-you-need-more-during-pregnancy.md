@@ -27,7 +27,8 @@ Table 2
 **3. Protein:** Adequate protein intake is essential during pregnancy for so many reasons including expanding the blood volume for growing the fetus, creating maternal tissues and building muscles and bones. Recommended daily intake for pregnant women increased by ~40% = 1.1g/kg during pregnancy. 
 
 
-> We recommend 6-8 oz  of lean protein including chicken, beef and seafood, eggs, legumes, beans and peas, nuts, and peanut butter. 
+> We recommend consuming daily 6-8 oz  of lean protein including chicken, beef and seafood, eggs, legumes, beans and peas, nuts, and peanut butter. 
+
 > If you are vegan or vegetarian **nutritional yeast** is a great option to meet protein intake with bonus B-complex vitamins! You can add to your soup, salads or pasta as a sub for parmesan cheese!
 
 
