@@ -26,12 +26,13 @@ Here are some of the most popular and effective magnesium supplements:
 If you are pregnant or planning to have a baby soon, I have additional note for you. Research shows that taking 100 mg magnesium supplement during pregnancy suggested to decrease the following risks: intrauterine growth retardation, preterm labor, maternal body mass index, neonatal weight, pregnancy-induced hypertension, preeclampsia, gestational diabetes mellitus, cramps of the leg. Prenatals generally do not contain magnesium, so you may need to take them additionally to prevent any of the risks below throughout this journey. I personally use this one since it is in magnesium citrate form.
 Hope you find this helpful!
 
-If you are unsure which magnesium supplement is right for you, talk to your doctor or a registered dietitian. They can help you choose a supplement that is right for your individual needs.
-Here are some additional tips for choosing a magnesium supplement:
-Look for a supplement that is third-party tested to ensure that it contains the amount of magnesium advertised.
-Choose a supplement that is made with natural ingredients and does not contain any artificial colors, flavors, or preservatives.
-Start with a low dose and increase the dose gradually until you find the amount that works best for you.
-Take magnesium supplements with food to prevent stomach upset.
+> If you are unsure which magnesium supplement is right for you, talk to your doctor or a registered dietitian. They can help you choose a supplement that is right for your individual needs.
+
+**Here are some additional tips for choosing a magnesium supplement:**
+-Look for a supplement that is third-party tested to ensure that it contains the amount of magnesium advertised.
+-Choose a supplement that is made with natural ingredients and does not contain any artificial colors, flavors, or preservatives.
+-Start with a low dose and increase the dose gradually until you find the amount that works best for you.
+-Take magnesium supplements with food to prevent stomach upset.
 
 
 
