@@ -27,7 +27,9 @@ Table 2
 > We recommend 6-8 oz  of lean protein including chicken, beef and seafood, eggs, legumes, beans and peas, nuts, and peanut butter. If you are vegan or vegetarian **nutritional yeast** is a great option to meet protein intake with bonus B-complex vitamins! You can add to your soup, salads or pasta as a sub for parmesan cheese!
 
 
-This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
+
+_This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations._
+
 
 If you are expecting, feel free to join my FB group where we share our current and previous experiences with other mom-to-be’s! 
 
