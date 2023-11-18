@@ -18,7 +18,7 @@ Table 1
 **2. Iron:** Iron is important for carrying oxygen to your baby. Pregnant women need to consume about 27 milligrams of iron every day whereas adult females only need 18 mg iron in a day. Table 2 includes bst food sources of Iron.
 
 Table 2
-![]({{site.baseurl}}/_posts/Best%20sources%20of%20Iron.jpg)
+![Best sources of Iron.jpg]({{site.baseurl}}/assets/images/Best sources of Iron.jpg)
 
 
 **3. Protein:** Adequate protein intake is essential during pregnancy for so many reasons including expanding the blood volume for growing the fetus, creating maternal tissues and building muscles and bones. Recommended daily intake for pregnant women increased by ~40% = 1.1g/kg during pregnancy. 
