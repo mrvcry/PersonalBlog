@@ -12,16 +12,16 @@ image: assets/images/Magnesium_DNY.jpg
 The best magnesium supplement for you will depend on your individual needs and preferences. 
 
 Here are some of the most popular and effective magnesium supplements:
-1. Magnesium glycinate: This is a highly bioavailable form of magnesium that is well-tolerated by most people. It is a good choice for sleep, anxiety, and muscle cramps.
+**1. Magnesium glycinate:** This is a highly bioavailable form of magnesium that is well-tolerated by most people. It is a good choice for sleep, anxiety, and muscle cramps.
 
 
-2. Magnesium citrate: This is another highly bioavailable form of magnesium that is also gentle on the stomach. It is a good choice for constipation.
+**2. Magnesium citrate:**This is another highly bioavailable form of magnesium that is also gentle on the stomach. It is a good choice for constipation.
 
 
-3. Magnesium malate: This form of magnesium is thought to be especially helpful for energy production and muscle function.
+**3.** **Magnesium malate:** This form of magnesium is thought to be especially helpful for energy production and muscle function.
 
 
-4. Magnesium chloride: This form of magnesium is dissolved in water, making it a good choice for people who have trouble swallowing pills.
+**4. Magnesium chloride:** This form of magnesium is dissolved in water, making it a good choice for people who have trouble swallowing pills.
 
 If you are pregnant or planning to have a baby soon, I have additional note for you. Research shows that taking 100 mg magnesium supplement during pregnancy suggested to decrease the following risks: intrauterine growth retardation, preterm labor, maternal body mass index, neonatal weight, pregnancy-induced hypertension, preeclampsia, gestational diabetes mellitus, cramps of the leg. 
 
