@@ -3,7 +3,9 @@ published: false
 image: assets/images/10 ways to overcome NV during pregnancy.jpg
 ---
 
-Do you feel nauseaus or vomiting all the time since you learned that you are pregnant? Give these 10 Dietitian Suggestions a try to feel better:
+Do you feel nauseous all the time since you learned that you are pregnant? 
+
+Give these 10 Dietitian Suggestions a try to feel better:
 
 1. Eat small, frequent meals and snacks with protein.
 
