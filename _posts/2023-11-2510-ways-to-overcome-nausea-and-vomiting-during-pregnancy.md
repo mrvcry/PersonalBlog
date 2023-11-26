@@ -29,7 +29,7 @@ Give these 10 Dietitian Suggestions a try to feel better:
 
 Hope this helps you all to have a less painful or none pain at all first trimester!
 
-If not, I highly recommend to see your healthcare provider. Remember you need to eat healthy, nutritious and yummy food not only for you but also for precious your little one! Do not hesitate to reach out by scheduling discovery call with me to learn how I can assist you in this journey!
+If not, I highly recommend seeing your healthcare provider. Remember you need to eat healthy, nutritious and yummy food not only for you but also for your precious little one! Do not hesitate to reach out by scheduling [a discovery call with me](https://calendly.com/dietitiannewyork/15min?back=1&month=2023-12) to learn how I can assist you in this journey!
 
 This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
 
