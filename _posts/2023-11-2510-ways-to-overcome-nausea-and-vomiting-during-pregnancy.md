@@ -23,7 +23,7 @@ Give these 10 Dietitian Suggestions a try to feel better:
 
 8. Ginger supplement (250 mg 2-4 times a day) proven to be helpful in reducing nausea during the first trimester.
 
-9. Another natural remedy would be mint tea but again do not drink with food.
+9. Another natural remedy would be mint tea but again do not drink with food. You can use either fresh or dried meat and make a tea with hot water.
 
 10. Taking prenatal 3 months advance before conception can also help with morning sickness.
 
@@ -42,4 +42,3 @@ Love,
 DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
