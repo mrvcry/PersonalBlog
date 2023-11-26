@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/10 ways to overcome NV during pregnancy.jpg
 ---
 
