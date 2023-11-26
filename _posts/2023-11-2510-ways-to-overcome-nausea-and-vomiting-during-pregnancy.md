@@ -25,9 +25,9 @@ Do you feel nauseaus or vomiting all the time since you learned that you are pre
 
 10. Taking prenatal 3 months advance before conception can also help with morning sickness.
 
-Hope this helps you all to have less painful first trimester!
+Hope this helps you all to have a less painful or none pain at all first trimester!
 
-If not, I highly recommend to see your healthcare provider. Remember you need to eat healthy, nutritious and yummy food not only for you but also for precious your little one!
+If not, I highly recommend to see your healthcare provider. Remember you need to eat healthy, nutritious and yummy food not only for you but also for precious your little one! Do not hesitate to reach out by scheduling discovery call with me to learn how I can assist you in this journey!
 
 This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
 
