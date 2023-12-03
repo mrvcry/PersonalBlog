@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Image: assets/images/home remedies for leg cramps during pregnancy.jpg
 ---
 
@@ -44,6 +44,3 @@ Love,
 DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
-
-
