@@ -34,7 +34,8 @@ Weigth loss can be suggested if needed. Losing weight may help by improving insu
 Be healthy and shine!
 
 Love,
-M
+
+DNY
 
 If you like this post, please show your support by following me on social media! Also, feel free to schedule a free call if you are looking for dietitian! 
 
