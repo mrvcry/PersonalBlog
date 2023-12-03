@@ -59,6 +59,6 @@ Stay healthy and shine!
  
 Love,
 
-M
+DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
