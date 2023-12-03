@@ -81,6 +81,6 @@ Stay healthy and shine with your baby!
 
 Love,
 
-Prenatal Registered Dietitian
+DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
