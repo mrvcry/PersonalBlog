@@ -25,8 +25,9 @@ Eat well and often. Keeping your tummy occupied instead of eating large meals at
 
 Be healthy and shine!
 
-Best,
-M
+Love, 
+
+DNY
 
 > If you like this post, please show your support by following me on social media! Also, feel free to schedule a free call if you are looking for dietitian!
 Let’s connect: Instagram @dietitianny; Twitter @dietitianny
