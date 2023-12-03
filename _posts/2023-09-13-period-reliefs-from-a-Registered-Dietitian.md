@@ -28,7 +28,8 @@ Hope these suggestions help you to overcome your symptoms. Please reach out via 
 Stay healthy and shine!
 
 Love,
-M
+
+DNY
 
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
