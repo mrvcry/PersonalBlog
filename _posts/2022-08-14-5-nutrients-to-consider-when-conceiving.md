@@ -56,6 +56,7 @@ This blog provides general information and discussions about health and related 
 Stay healthy and shine!
  
 Love,
-M
+
+DNY
 
 **> Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray> We loved with a love that was more than love**
