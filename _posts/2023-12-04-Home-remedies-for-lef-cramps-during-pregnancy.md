@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/home remedies for leg cramps during pregnancy.jpg
 ---
 
