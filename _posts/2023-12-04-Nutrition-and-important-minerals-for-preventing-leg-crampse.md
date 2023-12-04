@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/NutritionForLegCramps.jpg
 ---
 Nutrition and important minerals for preventing leg cramps:
@@ -30,4 +30,3 @@ Love,
 DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
