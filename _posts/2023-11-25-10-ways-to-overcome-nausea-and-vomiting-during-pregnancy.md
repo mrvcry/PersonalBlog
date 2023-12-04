@@ -27,7 +27,7 @@ Do you feel nauseaus or vomiting all the time since you learned that you are pre
 
 Hope this helps you all to have less painful first trimester!
 
-If not, I highly recommend to see your healthcare provider. You need to eat healhy, nutritious and yummy food for you ad your little one!
+If not, I highly recommend to see your healthcare provider. You need to eat healhy, nutritious and yummy food for you ad your little one! Do not hesitate to reach out by scheduling [a discovery call with me](https://calendly.com/dietitiannewyork/15min?back=1&month=2023-12) to learn how I can assist you in this journey!
 
 _This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations._
 
