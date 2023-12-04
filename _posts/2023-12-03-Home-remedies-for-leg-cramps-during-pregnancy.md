@@ -1,6 +1,11 @@
 ---
 published: true
 Image: assets/images/home remedies for leg cramps during pregnancy.jpg
+layout: post
+categories:
+  - women health
+  - pregnancy blog
+  - leg cramps
 ---
 
 3 out of 10 pregnant women complain of leg cramps at the end of the second trimester and throughout the third trimester. It may occur in calf muscles but also in thighs and feets. The reasons might include the followings:
