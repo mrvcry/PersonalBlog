@@ -29,7 +29,7 @@ Hope this helps you all to have less painful first trimester!
 
 If not, I highly recommend to see your healthcare provider. You need to eat healhy, nutritious and yummy food for you ad your little one!
 
-This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
+_This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations._
 
 If you are expecting, feel free to join my FB group where we share our current and previous experiences with other mom-to-be’s! 
 
