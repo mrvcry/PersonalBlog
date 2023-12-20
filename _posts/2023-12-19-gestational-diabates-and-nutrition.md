@@ -2,7 +2,7 @@
 published: false
 image: assets/images/GDM.jpg
 ---
-What is GDM? How can we manage this?
+## What is GDM? How can we manage this?
 
 Gestational diabetes(GDM) is a type of one of the most common complications of pregnancy. The American Diabetes Association defines gestational diabetes as “Diabetes diagnosed in 2rd or 3rd trimester of pregnancy”.
 
@@ -11,10 +11,10 @@ Normally, your body produces a hormone called insulin that helps your cells abso
 Diagnosis usually happens after a routine prenatal glucose screening test between 24 and 28 weeks. They perform a 50-g glucose load test(nonfasting), then measure the plasma at 1 hr. If the plasma glucose level is higher than 140 mg/dL they would proceed with another test to confirm the GDM. 
 
 
-What are the symptoms of GDM?
+## What are the symptoms of GDM?
 Unfortunately, there are usually no noticeable symptoms in people with GDM. However, some women may experience increased thirst, frequent urination, tiredness, or unexplained weight loss.
 
-What is the treatment of GDM?
+## What is the treatment of GDM?
 GDM often disappears after delivery, however, it is important to follow the nutrition recommendations during and after the delivery. 
 
 - Self-monitoring the glucose fasting/1-hr and 2-hr after eating
@@ -45,43 +45,51 @@ GDM often disappears after delivery, however, it is important to follow the nutr
 
 
 ## Sample Meal Ideas:
+
 Breakfast:
-Greek yogurt with berries and chia seeds
-Whole-wheat toast with avocado and egg
-Oatmeal with nuts and fruit
-Scrambled tofu with whole-wheat toast and vegetables
+- Greek yogurt with berries and chia seeds
+- Whole-wheat toast with avocado and egg
+- Oatmeal with nuts and fruit
+- Scrambled tofu with whole-wheat toast and vegetables
+
 Lunch:
-Grilled chicken salad with mixed greens, quinoa, and vinaigrette
-Tuna salad sandwich on whole-wheat bread with lettuce and tomato
-Lentil soup with whole-wheat bread
-Veggie burger on a whole-wheat bun with salad
+- Grilled chicken salad with mixed greens, quinoa, and vinaigrette
+- Tuna salad sandwich on whole-wheat bread with lettuce and tomato
+- Lentil soup with whole-wheat bread
+- Veggie burger on a whole-wheat bun with salad
+
 Dinner:
-Salmon with roasted vegetables and brown rice
-Chicken stir-fry with brown rice and vegetables
-Lentil bolognese with whole-wheat pasta
-Vegetarian chili with whole-grain bread
+- Salmon with roasted vegetables and brown rice
+- Chicken stir-fry with brown rice and vegetables
+- Lentil bolognese with whole-wheat pasta
+- Vegetarian chili with whole-grain bread
+
 Snacks:
-Apple slices with nut butter
-Greek yogurt with fruit and granola
-Carrot sticks with hummus
-Hard-boiled egg
-Cottage cheese with sliced vegetables
+- Apple slices with nut butter
+- Greek yogurt with fruit and granola
+- Carrot sticks with hummus
+- Hard-boiled egg
+- Cottage cheese with sliced vegetables
+
+
 Remember:
 These are just suggestions, and you can adapt them to your preferences and dietary needs.
+
 Don't be afraid to experiment and find what works best for you.
+
 Monitor your blood sugar regularly and adjust your diet as needed.
+
 Enjoy your meals and focus on making healthy choices that nourish your body and your baby.
 
 
-Additional Resources:
-American Diabetes Association: https://diabetes.org/
-American College of Obstetricians and Gynecologists: https://annualmeeting.acog.org/
-National Institute of Diabetes and Digestive and Kidney Diseases: https://www.niddk.nih.gov/health-information/diabetes
+## Additional Resources:
+- American Diabetes Association: https://diabetes.org/
+- American College of Obstetricians and Gynecologists: https://annualmeeting.acog.org/
+- National Institute of Diabetes and Digestive and Kidney Diseases: https://www.niddk.nih.gov/health-information/diabetes
 
 
 
 This blog provides general information and discussions about health and related subjects. The information in this or other posts are not intended to give you medical advice or should not be substituted with medical advice. Please see your health care provider for individualized treatment plans and recommendations.
-
 
 I hope this helps you navigate your gestational diabetes journey through food! Feel free to reach out if you need help with managing your diabetes!
 
