@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 image: assets/images/GDM.jpg
 ---
 ## What is GDM? How can we manage this?
@@ -103,5 +103,3 @@ Love,
 DNY
 
 **Let’s connect: Instagram @dietitianny; Twitter @dietitianny; Facebook @MerveCiray**
-
-
