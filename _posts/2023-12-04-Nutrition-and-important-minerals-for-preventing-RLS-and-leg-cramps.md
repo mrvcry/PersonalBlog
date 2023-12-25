@@ -7,7 +7,7 @@ Leg cramps and restless leg syndrome are different in terms of diagnosis, howeve
 
 ## Checking in your vitamins:
 
-Leg cramps and restless leg syndrome are different in terms of diagnosis, however, the same minerals play an important role to prevent both conditions and these are magnesium, calcium, potassium and iron. Make sure to share your discomfort with your doctors to get a blood work done for your upcoming visit.
+Checking in your Vitamins/Minerals: Leg cramps and restless leg syndrome are different in terms of diagnosis, however, the same minerals play an important role to prevent both conditions and these are **magnesium, calcium, potassium and iron**. RLS, specifically, is associated with **Vit D deficiency**. In this case, you definitely need a supplement because it is hard to be sufficient with food sources. Make sure to share your discomfort with your doctors to get a blood work done for your upcoming visit. You might need a supplement depending on your level of deficiency.
 
 ## Eating Balanced Diet:
 
