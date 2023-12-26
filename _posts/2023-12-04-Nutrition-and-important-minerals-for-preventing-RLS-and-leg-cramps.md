@@ -16,7 +16,7 @@ Nutrition and important minerals for preventing leg cramps:
 
 See Table below for important minerals, DRIs and main food sources. 
 
-![MineralTableForLegCramps.jpg]({{site.baseurl}}/assets/images/MineralTableForLegCramps.jpg)
+![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Career Update.jpg]({{site.baseurl}}/_posts/Copy of Copy of Copy of Copy of Copy of Copy of Copy of Career Update.jpg)
 
 ## **Important considerations:**
 
