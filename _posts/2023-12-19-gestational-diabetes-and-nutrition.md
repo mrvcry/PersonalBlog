@@ -41,7 +41,7 @@ GDM often disappears after delivery, however, it is important to follow the nutr
  
 - Read food labels: Pay attention to carbohydrates and sugar content, choosing options with less added sugar.
 
-- Consult your doctor or a registered dietitian: They can create a personalized meal plan based on your individual needs and preferences.
+- Consult a registered dietitian: They can create a personalized meal plan based on your individual needs and preferences. If you need assistance or have concerns about meal plan, [schedule a discovery call with me](https://calendly.com/dietitiannewyork) so I can help you!
 
 
 ## Sample Meal Ideas:
