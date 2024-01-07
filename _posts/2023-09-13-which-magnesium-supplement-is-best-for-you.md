@@ -12,6 +12,7 @@ image: assets/images/Magnesium_DNY.jpg
 The best magnesium supplement for you will depend on your individual needs and preferences. 
 
 Here are some of the most popular and effective magnesium supplements:
+
 **1. Magnesium glycinate:** This is a highly bioavailable form of magnesium that is well-tolerated by most people. It is a good choice for sleep, anxiety, and muscle cramps.
 
 
