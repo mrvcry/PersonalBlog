@@ -2,7 +2,7 @@
 published: true
 image: assets/images/NutritionForLegCramps.jpg
 ---
-![vitamin table for leg cramps .jpg]({{site.baseurl}}/assets/images/vitamin table for leg cramps.jpg)
+
 Leg cramps and restless leg syndrome are different in terms of diagnosis, however, the same minerals play an important role to prevent both conditions.
 
 ## Checking in your vitamins:
@@ -17,7 +17,7 @@ Nutrition and important minerals for preventing leg cramps:
 See Table below for important minerals, DRIs and main food sources. 
 
 
-![vitamin table for leg cramps .jpg]({{site.baseurl}}/assets/images/vitamin table for leg cramps.jpg)
+![vitaminsforcramps.jpg]({{site.baseurl}}/assets/images/vitaminsforcramps.jpg)
 
 
 ## **Important considerations:**
